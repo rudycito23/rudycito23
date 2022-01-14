@@ -1,5 +1,6 @@
 - 👋 Hi, my name is Rudy.
 - 👀 I’m interested in learning best practices on how to become a better software engineer.
+- 🤝🏽 I want to change people's lives for the better through technology.
 - 🌱 I’m currently learning Data Structures, JavaScript, C++, and Java.
 - 💞️ I’m looking to collaborate on projects that will help me improve my craft.
 - 📫 You can reach me at LinkedIn.com/in/rudy-r-l-0a8270126/ or Twitter: @rudycito23
