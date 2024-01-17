@@ -1,4 +1,4 @@
-- 👋 Hi, my name is Rudy.
+- 👋🏽 Hi, my name is Rudy.
 - 👀 I’m interested in learning best practices on how to become a better software engineer.
 - 🤝🏽 I aspire to propel human flourishing through technology.
 - 👨🏽‍💻 I’m currently an Associate Developer for Dialexa, an IBM Company.
